@@ -1,5 +1,5 @@
 
 # python_data_analysis
 
-This a revision course of Data science and AI.
-**Course instructor": Dr. Aamaar
+This is a revision course in Data science and AI.
+**Course instructor**: Dr. Aamaar
